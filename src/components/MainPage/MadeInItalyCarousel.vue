@@ -9,7 +9,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P1.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P1.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -18,7 +18,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P2.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P2.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -27,7 +27,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P3.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P2.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P4.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P4.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P5.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P5.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P6.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P6.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P7.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P7.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P8.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P8.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -81,7 +81,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P9.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P9.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -90,7 +90,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P10.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P10.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P11.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P11.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R9P12.jpg" alt="Nothing there" />
+              <img src="../../assets/R9P12.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>

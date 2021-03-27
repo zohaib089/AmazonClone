@@ -9,7 +9,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P1.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P1.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 32.24 $</p>
@@ -21,7 +21,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P2.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P2.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -33,7 +33,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P3.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P3.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.67 $</p>
@@ -45,7 +45,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P4.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P4.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 54 $</p>
@@ -57,7 +57,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P5.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P5.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 44.87 $</p>
@@ -69,7 +69,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P6.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P6.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 132.42 $</p>
@@ -81,7 +81,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P7.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P7.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 51.42 $</p>
@@ -93,7 +93,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P8.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P8.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -105,7 +105,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P9.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P9.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -117,7 +117,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P10.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P10.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -129,7 +129,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P12.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P12.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -141,7 +141,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P13.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P13.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -153,7 +153,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R12P11.jpg" alt="Nothing there" />
+              <img src="../../assets/R12P11.jpg" alt="Nothing there" />
             </div>
             <q-separator></q-separator>
             <p class="text-primary">Price: 22.24 $</p>
@@ -167,8 +167,8 @@
 
 <script>
 // For convenience sake, I import a collection of images from unsplash.
-// import {singapore} from '../../../~assets/img'
-// const img1 = require('~assets/R12P1.jpg')
+// import {singapore} from '../../../../../assets/img'
+// const img1 = require('../../assets/R12P1.jpg')
 // var img2 = new Image()
 // img2.src = this.img1
 

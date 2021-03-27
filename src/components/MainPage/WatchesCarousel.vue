@@ -9,7 +9,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P1.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P1.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -18,7 +18,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P2.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P2.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -27,7 +27,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P3.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P3.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P4.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P4.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P5.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P5.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P6.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P6.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P7.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P7.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P8.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P8.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -81,7 +81,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P9.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P9.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -90,7 +90,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R6P10.jpg" alt="Nothing there" />
+              <img src="../../assets/R6P10.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -98,15 +98,15 @@
     </vue-horizontal>
 
     <q-card class="q-mt-lg">
-      <q-img src="~assets/Hero.jpg"></q-img>
+      <q-img src="../../assets/Hero.jpg"></q-img>
     </q-card>
   </main>
 </template>
 
 <script>
 // For convenience sake, I import a collection of images from unsplash.
-// import {singapore} from '../../../~assets/img'
-// const img1 = require('~assets/R4P1.jpg')
+// import {singapore} from '../../../../../assets/img'
+// const img1 = require('../../assets/R4P1.jpg')
 // var img2 = new Image()
 // img2.src = this.img1
 

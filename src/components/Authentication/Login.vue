@@ -8,7 +8,7 @@
           <q-img
             style="
         width:100% !important;"
-            src="~assets/logo.png"
+            src="../../assets/logo.png"
             class="self-center"
           ></q-img>
         </div>
@@ -68,13 +68,13 @@
       <q-separator />
       <div
         class="text-center q-mt-md"
-        style=" border-bottom: 1px dotted #000; 
+        style=" border-bottom: 1px dotted #000;
    line-height: 0.1em;
    margin: 10px 0 12px;
    margin-top:1rem; "
       >
         <span
-          style="background:#fff; 
+          style="background:#fff;
     padding:0 10px; "
         >
           New to Amazon?</span
@@ -116,12 +116,12 @@
 
 <script>
 export default {
- data() {
-   return {
-     password:"",
-     text:""
-   }
- },
+  data() {
+    return {
+      password: "",
+      text: ""
+    };
+  },
   methods: {
     onLogin() {
       this.$router.push("/main");

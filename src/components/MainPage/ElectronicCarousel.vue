@@ -11,7 +11,7 @@
         <q-card class="card">
           <div class="content">
             <q-card-section>
-              <q-img src="~assets/R10P1.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P1.jpg" alt="Nothing there" />
             </q-card-section>
           </div>
         </q-card>
@@ -20,7 +20,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P2.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P2.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -29,7 +29,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P3.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P3.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R10P4.jpg" alt="Nothing there" />
+              <img src="../../assets/R10P4.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -47,7 +47,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P5.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P5.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -56,7 +56,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P6.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P6.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P7.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P7.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -74,7 +74,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P8.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P8.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P9.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P9.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P10.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P10.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -101,7 +101,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P11.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P11.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -111,7 +111,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <q-img src="~assets/R10P12.jpg" alt="Nothing there" />
+              <q-img src="../../assets/R10P12.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -122,8 +122,8 @@
 
 <script>
 // For convenience sake, I import a collection of images from unsplash.
-// import {singapore} from '../../../~assets/img'
-// const img1 = require('~assets/R4P1.jpg')
+// import {singapore} from '../../../../../assets/img'
+// const img1 = require('../../assets/R4P1.jpg')
 // var img2 = new Image()
 // img2.src = this.img1
 

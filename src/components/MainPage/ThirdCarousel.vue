@@ -11,7 +11,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P1.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P1.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -20,7 +20,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P2.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P2.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -29,7 +29,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P3.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P3.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P4.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P4.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -47,7 +47,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P5.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P5.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -56,7 +56,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P6.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P6.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P7.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P7.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -74,7 +74,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P8.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P8.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P9.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P9.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P10.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P10.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -101,7 +101,7 @@
         <div class="card">
           <div class="content">
             <div>
-              <img src="~assets/R4P11.jpg" alt="Nothing there" />
+              <img src="../../assets/R4P11.jpg" alt="Nothing there" />
             </div>
           </div>
         </div>
@@ -112,8 +112,8 @@
 
 <script>
 // For convenience sake, I import a collection of images from unsplash.
-// import {singapore} from '../../../~assets/img'
-// const img1 = require('~assets/R4P1.jpg')
+// import {singapore} from '../../../../../assets/img'
+// const img1 = require('../../assets/R4P1.jpg')
 // var img2 = new Image()
 // img2.src = this.img1
 

@@ -8,7 +8,7 @@
           </q-card-section>
 
           <q-card-section>
-            <q-img src="~assets/R1P1.jpg" />
+            <q-img src="../../assets/R1P1.jpg" />
           </q-card-section>
 
           <q-card-actions>
@@ -26,16 +26,16 @@
           <q-card-section>
             <div class="row">
               <div class="col-md-6 q-pr-sm">
-                <q-img src="~assets/R1P2.jpg" />
+                <q-img src="../../assets/R1P2.jpg" />
               </div>
               <div class="col-md-6 q-pl-sm">
-                <q-img src="~assets/R1P2.jpg" />
+                <q-img src="../../assets/R1P2.jpg" />
               </div>
               <div class="col-md-6 q-pr-sm q-pt-sm">
-                <q-img src="~assets/R1P2.jpg" />
+                <q-img src="../../assets/R1P2.jpg" />
               </div>
               <div class="col-md-6 q-pl-sm q-pt-sm">
-                <q-img src="~assets/R1P2.jpg" />
+                <q-img src="../../assets/R1P2.jpg" />
               </div>
             </div>
           </q-card-section>
@@ -52,7 +52,7 @@
           </q-card-section>
 
           <q-card-section>
-            <q-img src="~assets/R1P3.jpg" />
+            <q-img src="../../assets/R1P3.jpg" />
           </q-card-section>
 
           <q-card-actions>
@@ -62,7 +62,7 @@
       </div>
       <div class="col-md-3">
         <q-card class="my-card">
-          <q-img src="~assets/R1P4.jpg">
+          <q-img src="../../assets/R1P4.jpg">
             <div class="text-h5 absolute-bottom text-right">
               Try Amazon Music
             </div>
@@ -71,7 +71,7 @@
       </div>
       <div class="col-md-6">
         <q-card class="my-card">
-          <q-img src="~assets/R2P1.jpg" basic>
+          <q-img src="../../assets/R2P1.jpg" basic>
             <div class="absolute-bottom text-subtitle2 text-center">
               Watch on Prime Video
             </div>
@@ -88,7 +88,7 @@
           </q-card-section>
 
           <q-card-section>
-            <q-img src="~assets/R2P2.jpg" />
+            <q-img src="../../assets/R2P2.jpg" />
           </q-card-section>
 
           <q-card-actions>
@@ -103,7 +103,7 @@
           </q-card-section>
 
           <q-card-section>
-            <q-img src="~assets/R2P3.jpg" />
+            <q-img src="../../assets/R2P3.jpg" />
           </q-card-section>
 
           <q-card-actions>

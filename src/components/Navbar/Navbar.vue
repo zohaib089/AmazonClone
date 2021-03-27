@@ -9,7 +9,7 @@
       background-color:white;
       margin-left:-.66rem !important;
       "
-      src="~/assets/logo.png"
+      src="../..//assets/logo.png"
     ></q-img>
 
     <q-icon style="font-size:2.4rem !important; " name="mdi-map-marker" />

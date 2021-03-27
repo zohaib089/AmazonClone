@@ -8,7 +8,7 @@
           <q-img
             style="
         width:100% !important;"
-            src="~assets/logo.png"
+            src="../../assets/logo.png"
             class="self-center"
           ></q-img>
         </div>
@@ -83,6 +83,15 @@
 
 <script>
 export default {
+  data() {
+    return {
+      name: "",
+      text: "",
+      password1: "",
+      password2: "",
+      onLogin: ""
+    };
+  },
   methods: {
     GoToLogin() {
       this.$router.push("/");
